@@ -1,0 +1,15 @@
+{
+    "name": "studioumi/phpcs-japanese-drupal",
+    "description": "PHP Code Sniffer ruleset for Japanese Drupal project.",
+    "type": "project",
+    "require": {
+        "drupal/coder": "^8.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yutaro Ohno",
+            "email": "yutaro.ohno@studio-umi.jp"
+        }
+    ]
+}
