@@ -1,7 +1,7 @@
 {
     "name": "studioumi/phpcs-japanese-drupal",
     "description": "PHP Code Sniffer ruleset for Japanese Drupal project.",
-    "type": "project",
+    "type": "phpcodesniffer-standard",
     "require": {
         "drupal/coder": "^8.3"
     },
